@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/CodeRobot/CodeRobot/obj/Debug/netcoreapp2.2/CodeRobot.csprojAssemblyReference.cache
+/Users/Guest/Desktop/CodeRobot/CodeRobot/obj/Debug/netcoreapp2.2/CodeRobot.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/CodeRobot/CodeRobot/obj/Debug/netcoreapp2.2/CodeRobot.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/CodeRobot/CodeRobot/obj/Debug/netcoreapp2.2/CodeRobot.AssemblyInfo.cs
+/Users/Guest/Desktop/CodeRobot/CodeRobot/bin/Debug/netcoreapp2.2/CodeRobot.deps.json
+/Users/Guest/Desktop/CodeRobot/CodeRobot/bin/Debug/netcoreapp2.2/CodeRobot.runtimeconfig.json
+/Users/Guest/Desktop/CodeRobot/CodeRobot/bin/Debug/netcoreapp2.2/CodeRobot.runtimeconfig.dev.json
+/Users/Guest/Desktop/CodeRobot/CodeRobot/bin/Debug/netcoreapp2.2/CodeRobot.dll
+/Users/Guest/Desktop/CodeRobot/CodeRobot/bin/Debug/netcoreapp2.2/CodeRobot.pdb
+/Users/Guest/Desktop/CodeRobot/CodeRobot/obj/Debug/netcoreapp2.2/CodeRobot.dll
+/Users/Guest/Desktop/CodeRobot/CodeRobot/obj/Debug/netcoreapp2.2/CodeRobot.pdb
